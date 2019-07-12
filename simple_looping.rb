@@ -15,7 +15,7 @@ phrase = "Welcome to Flatiron School's Web Development Course!"
 loop do 
   counter >= number_of_times
   puts phrase 
-if counter 
+if counter >= number_of_times
   break
   
  end
