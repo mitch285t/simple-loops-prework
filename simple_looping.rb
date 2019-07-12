@@ -13,7 +13,7 @@ loop do
 
 phrase = "Welcome to Flatiron School's Web Development Course!"
  
-if number_of_times 
+if loop_iterator >= number_of_times
   break
   
  end
