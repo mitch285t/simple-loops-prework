@@ -22,7 +22,7 @@ end
 end
 
 def times_iterator(number_of_times)
-  number_of_times.times 
+  number_of_times.times do
   phrase = "Welcome to Flatiron School's Web Development Course!"
   
 end
