@@ -11,10 +11,7 @@
 
 def loop_iterator(number_of_times)
 phrase = "Welcome to Flatiron School's Web Development Course!"
-loop do 
-  puts phrase
 
-end
 end
 
 
