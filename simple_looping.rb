@@ -13,7 +13,8 @@ loop do
   counter = 0
 phrase = "Welcome to Flatiron School's Web Development Course!"
 counter += 1 
-
+when counter >= number_of_times
+  break
  end
 end
 
